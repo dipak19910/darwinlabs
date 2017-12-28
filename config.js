@@ -4,7 +4,7 @@ module.exports = {
     APP_TINY_PNG_KEY:"xYZffK9fFKGM1nHgh-fA6Sy5A7-pAEGF",
     DATABASE:"darwinlabs",
     MONGO_URL:"localhost",
-    SERVER_URL:"http://127.0.0.1:3000"
+    SERVER_URL:"http://unitechno.xyz:3000"
 
 };
 
