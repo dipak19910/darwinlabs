@@ -1,4 +1,4 @@
-const SERVER_URL= "http://127.0.0.1:3000"
+const SERVER_URL= "http://unitechno.xyz:3000"
 module.exports= {
     SERVER_URL
 };
